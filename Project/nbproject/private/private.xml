@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/DAO/AdminDaoImpl.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/forms/PersonneAuth.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/DAO/DoozInterfa.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/DAO/PassVaccInterface.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/DAO/DozeDaoImpl.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/forms/Admin1.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/forms/AdminJFrame.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/Models/Admin.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/DAO/PersonneDAO.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/Models/VaccinDTO.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/Models/PersonneVaccinerDTO.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/forms/VaccinJFrame.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/forms/AccueilJFrame.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/utils/DbConnection.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/DAO/PersonneInterface.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/forms/RecherchePersonne.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/forms/DoozJFrame.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/DAO/AdminDao.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/forms/Pass.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/forms/PersonneJFrame.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/forms/ConsulterPersonne.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/Models/Dooz.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/Models/PassVacc.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/Models/Personne.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/ProjetGroup.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/Models/Vaccin.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/DAO/VaccinInterface.java</file>
+            <file>file:/C:/Users/salah/Documents/NetBeansProjects/ProjetGroup/src/projetgroup/DAO/VaccinDaoImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
